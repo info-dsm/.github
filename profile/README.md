@@ -14,15 +14,15 @@
  
  ---
  
- ## 페이지 url
+ ## service
  
  ---
  
  <br>
- 전체 : https://info-dsm.info/
+ - 전체 : https://info-dsm.info/
  <br>
- 학생 페이지 : https://student.info-dsm.info/
+ - 학생 페이지 : https://student.info-dsm.info/
  <br>
-선생님 페이지: https://teacher.info-dsm.info/
-<br>
-기업 페이지 : https://company.info-dsm.info/
+ - 선생님 페이지: https://teacher.info-dsm.info/
+ <br>
+ - 기업 페이지 : https://company.info-dsm.info/
