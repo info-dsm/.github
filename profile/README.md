@@ -11,4 +11,7 @@
 `INFO`는 **2017년 대덕SW마이스터고등학교**의 보안 동아리로 출발하여 다양한 변화를 거치고 **현재 개발&보안 동아리로 활동**하고 있습니다.💫 <br>
  현재 교내 채용 관리 플랫폼 info를 개발 및 운영 중에 있으며🔮, <br>
  **보여주기식의 화려함이 아닌 개발자로써 성장**하기 위해 노력합니다.
- <a href="https://teacher.info-dsm.info/"/>
+ 전체 : https://info-dsm.info/
+ 학생 페이지 : https://student.info-dsm.info/
+선생님 페이지: https://teacher.info-dsm.info/
+기업 페이지 : https://company.info-dsm.info/
