@@ -18,4 +18,4 @@
  
  ---
  
-* 전체 : https://info-dsm.info/
+* https://info-dsm.info/
